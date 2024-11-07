@@ -1,0 +1,97 @@
+/* #dvSlider{
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    position:relative;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn1{
+    background:rgba(0,0,0,0.5);
+    width: 70px;
+    height: 100px;
+    
+}
+
+.btn2{
+    background:rgba(0,0,0,0.2);
+    width: 70px;
+    height: 100px;
+} */
+
+/* .card{
+    width: 300px;
+    height: auto;
+    border: 1px solid #CCC;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+} */
+
+.card img{
+    width: 100%;
+    height: auto;
+}
+
+.card-content{
+    padding: 20x;
+}
+
+.card-title{
+    margin: 0;
+    font-size:1.5em;
+}
+
+.cardDsc{
+    color: black;
+}
+
+/* ----------------- */
+
+/* .card-rotate{
+    width: 300px;
+    height: auto;
+    border: 1px solid #CCC;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card-rotate image{
+    width: auto;
+    height: auto;
+}
+
+.card-content{
+    padding: 20px;
+}
+
+.card-title{
+    margin: 0;
+    font-size:1.5em;
+} 
+
+.cardDsc{
+    color: black;
+}  */
+
+/* -------------------- */
+
+/* .cardButton{
+    width: 400px;
+    height: auto;
+    border: 1px solid #CCC;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    transition: transform 0.3s ease;
+    text-align: center;
+    border: 2px solid black;+
+}
+
+.buttonCard{
+    width: 50%;
+    height: 30px;
+    background-color: lightgreen;
+    margin-bottom: 5px;
+} */
