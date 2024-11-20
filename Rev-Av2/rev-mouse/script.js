@@ -200,15 +200,25 @@
 
 // })
 
-document.querySelector("#inputDois").addEventListener('keydown', function(event){
+// document.querySelector("#inputDois").addEventListener('keydown', function(event){
 
-    if(event.key = 'Enter'){
-        event.preventDefault()
-    }
+//     if(event.key = 'Enter'){
+//         event.preventDefault()
+//     }
 
     
 
-})
+// })
+
+
+
+
+
+
+
+
+
+
 
 
 
