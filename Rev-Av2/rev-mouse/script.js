@@ -99,7 +99,7 @@
 
 //     document.body.style.background = 'pink'
 // })
-
+// 
 
 // cores.addEventListener('dblclick', function(){
 
@@ -193,10 +193,20 @@
 // keydown------
 
 
-document.getElementById('inputUm').addEventListener('keydown', function(event){
+// document.getElementById('inputUm').addEventListener('keydown', function(event){
 
-    console.log('Tecla pressionada: ', event.key)
+//     console.log('Tecla pressionada: ', event.key)
 
+
+// })
+
+document.querySelector("#inputDois").addEventListener('keydown', function(event){
+
+    if(event.key = 'Enter'){
+        event.preventDefault()
+    }
+
+    
 
 })
 
